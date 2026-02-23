@@ -1,5 +1,27 @@
+# Allowlist DNS para AdGuard Home
+# Essencial para Instagram, TikTok e Facebook/Meta
+# Mantém o bloqueio de anúncios ativo enquanto permite funcionalidade completa das apps
+
+# Instagram / Meta
 *.instagram.com
+*.cdninstagram.com
 *.fbcdn.net
 *.facebook.net
-*.cdninstagram.com
+*.graph.instagram.com
+*.threads.net
+*.threadsapp.net
+
+# TikTok / ByteDance
+*.tiktok.com
 *.tiktokcdn.com
+*.tiktokv.com
+*.bytetocean.net
+*.bytedance.net
+
+# Facebook / Meta geral
+*.facebook.com
+*.fb.com
+*.fbsbx.com
+*.facebookmail.com
+*.messenger.com
+*.m.me
