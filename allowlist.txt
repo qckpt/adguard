@@ -1,0 +1,5 @@
+*.instagram.com
+*.fbcdn.net
+*.facebook.net
+*.cdninstagram.com
+*.tiktokcdn.com
