@@ -1,5 +1,5 @@
 # Allowlist DNS para AdGuard Home
-# Essencial para Instagram, TikTok e Facebook/Meta
+# Essencial para Instagram, TikTok, Facebook/Meta e Twitch
 # Mantém o bloqueio de anúncios ativo enquanto permite funcionalidade completa das apps
 
 # Instagram / Meta
@@ -25,3 +25,11 @@
 *.facebookmail.com
 *.messenger.com
 *.m.me
+
+# Twitch
+*.twitch.tv
+*.ttvnw.net
+api.twitch.tv
+chat.twitch.tv
+static.twitchcdn.net
+player.twitch.tv
