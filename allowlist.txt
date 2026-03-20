@@ -44,6 +44,8 @@ rt.applovin.com
 rt.applvn.com
 prod-mediate-events.applovin.com
 ads.eu.criteo.com
+pagead2.googlesyndication.com
+
 
 # Xiaomi Ads (porque o teu telemóvel usa isto)
 sdkconfig.ad.intl.xiaomi.com
