@@ -37,6 +37,12 @@ player.twitch.tv
 # AppLovin (principal rede de anúncios do jogo)
 ms.applovin.com
 ms.applvn.com
+# AppLovin (entrega real do anúncio/vídeo)
+d.applovin.com
+d.applvn.com
+rt.applovin.com
+rt.applvn.com
+prod-mediate-events.applovin.com
 
 # Xiaomi Ads (porque o teu telemóvel usa isto)
 sdkconfig.ad.intl.xiaomi.com
