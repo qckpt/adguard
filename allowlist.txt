@@ -33,3 +33,11 @@ api.twitch.tv
 chat.twitch.tv
 static.twitchcdn.net
 player.twitch.tv
+
+# AppLovin (principal rede de anúncios do jogo)
+ms.applovin.com
+ms.applvn.com
+
+# Xiaomi Ads (porque o teu telemóvel usa isto)
+sdkconfig.ad.intl.xiaomi.com
+api.ad.intl.xiaomi.com
