@@ -47,18 +47,3 @@ prod-mediate-events.applovin.com
 # Xiaomi Ads (porque o teu telemóvel usa isto)
 sdkconfig.ad.intl.xiaomi.com
 api.ad.intl.xiaomi.com
-
-# Google Ads
-pubads.g.doubleclick.net
-ads.eu.criteo.com
-pagead2.googlesyndication.com
-sts.applovin.com
-
-# AppLovin extra
-ms4.applovin.com
-ms4.applvn.com
-
-# Unity Ads
-gateway.unityads.unity3d.com
-i-sdk.mediation.unity3d.com
-
