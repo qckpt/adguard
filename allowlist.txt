@@ -44,12 +44,6 @@ rt.applovin.com
 rt.applvn.com
 prod-mediate-events.applovin.com
 
-mega.nz
-*.mega.nz
-mega.io
-*.mega.io
-megacloud.nz
-*.megacloud.nz
 live-video.net
 *.live-video.net
 
