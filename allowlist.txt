@@ -50,6 +50,8 @@ mega.io
 *.mega.io
 megacloud.nz
 *.megacloud.nz
+live-video.net
+*.live-video.net
 
 # Xiaomi Ads (porque o teu telemóvel usa isto)
 sdkconfig.ad.intl.xiaomi.com
