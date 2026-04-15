@@ -48,3 +48,9 @@ prod-mediate-events.applovin.com
 # Xiaomi Ads (porque o teu telemóvel usa isto)
 sdkconfig.ad.intl.xiaomi.com
 api.ad.intl.xiaomi.com
+
+# Jogo Hay day
+*.doubleclick.net
+*.admob.com
+*.unityads.com
+*.applovin.com
