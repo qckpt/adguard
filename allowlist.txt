@@ -44,8 +44,6 @@ rt.applovin.com
 rt.applvn.com
 prod-mediate-events.applovin.com
 
-live-video.net
-*.live-video.net
 
 # Xiaomi Ads (porque o teu telemóvel usa isto)
 sdkconfig.ad.intl.xiaomi.com
