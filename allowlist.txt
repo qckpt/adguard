@@ -54,3 +54,9 @@ api.ad.intl.xiaomi.com
 *.admob.com
 *.unityads.com
 *.applovin.com
+googleads.g.doubleclick.net
+adservice.google.com
+firebaseinstallations.googleapis.com
+app-measurement.com
+unityads.unity3d.com
+ads.applovin.com
