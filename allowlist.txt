@@ -60,3 +60,8 @@ firebaseinstallations.googleapis.com
 app-measurement.com
 unityads.unity3d.com
 ads.applovin.com
+unity3d.com
+vungle.com
+moloco.com
+axon.ai
+app-measurement.com
