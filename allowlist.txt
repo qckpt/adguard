@@ -33,35 +33,3 @@ api.twitch.tv
 chat.twitch.tv
 static.twitchcdn.net
 player.twitch.tv
-
-# AppLovin (principal rede de anúncios do jogo)
-ms.applovin.com
-ms.applvn.com
-# AppLovin (entrega real do anúncio/vídeo)
-d.applovin.com
-d.applvn.com
-rt.applovin.com
-rt.applvn.com
-prod-mediate-events.applovin.com
-
-
-# Xiaomi Ads (porque o teu telemóvel usa isto)
-sdkconfig.ad.intl.xiaomi.com
-api.ad.intl.xiaomi.com
-
-# Jogo Hay day
-*.doubleclick.net
-*.admob.com
-*.unityads.com
-*.applovin.com
-googleads.g.doubleclick.net
-adservice.google.com
-firebaseinstallations.googleapis.com
-app-measurement.com
-unityads.unity3d.com
-ads.applovin.com
-unity3d.com
-vungle.com
-moloco.com
-axon.ai
-app-measurement.com
